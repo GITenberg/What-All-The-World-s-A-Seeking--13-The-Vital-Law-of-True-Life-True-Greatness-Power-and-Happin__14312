@@ -1,0 +1,29 @@
+_repo: What-All-The-World-s-A-Seeking--13-The-Vital-Law-of-True-Life-True-Greatness-Power-and-Happin__14312
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Trine, Ralph Waldo
+    birthdate: 1866
+    deathdate: 1958
+    gutenberg_agent_id: '5465'
+    url: http://www.gutenberg.org/2009/agents/5465
+description: ''
+gutenberg_issued: '2004-12-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14312'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Character'
+- !lcc 'BJ'
+- !lcsh 'Conduct of life'
+- !lcsh 'Christian life'
+title: "What All The World's A-Seeking\r\nThe Vital Law of True Life, True Greatness\
+  \ Power and Happiness"
+url: http://www.gutenberg.org/ebooks/14312
