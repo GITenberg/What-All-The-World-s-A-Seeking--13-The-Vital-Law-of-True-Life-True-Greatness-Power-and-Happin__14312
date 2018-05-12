@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '5465'
     url: http://www.gutenberg.org/2009/agents/5465
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/14312#What-All-The-World-s-A-Seeking--13-The-Vital-Law-of-True-Life-True-Greatness-Power-and-Happin_
 gutenberg_issued: '2004-12-09'
 gutenberg_type: Text
 identifiers:
